@@ -1,0 +1,4 @@
+# IDE (GoLand, VSCode, etc.)
+.idea/
+*.iml
+.vscode/
