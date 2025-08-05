@@ -5,7 +5,7 @@ import (
 	"errors"
 	"os"
 
-	"github.com/smolyaninov/go-cli-task-tracker/internal/domain"
+	"github.com/smolyaninov/go-task-tracker-cli/internal/domain"
 )
 
 type TaskRepository interface {

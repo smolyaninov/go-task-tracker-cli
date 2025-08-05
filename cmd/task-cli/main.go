@@ -6,9 +6,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/smolyaninov/go-cli-task-tracker/internal/domain"
-	"github.com/smolyaninov/go-cli-task-tracker/internal/repository"
-	"github.com/smolyaninov/go-cli-task-tracker/internal/service"
+	"github.com/smolyaninov/go-task-tracker-cli/internal/domain"
+	"github.com/smolyaninov/go-task-tracker-cli/internal/repository"
+	"github.com/smolyaninov/go-task-tracker-cli/internal/service"
 )
 
 func main() {

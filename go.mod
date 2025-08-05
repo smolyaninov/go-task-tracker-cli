@@ -1,3 +1,3 @@
-module github.com/smolyaninov/go-cli-task-tracker
+module github.com/smolyaninov/go-task-tracker-cli
 
 go 1.24.5
